@@ -246,5 +246,5 @@ handwritten-digit-recognizer/
 
 ## Author
 
-**Varsha Chuphal**
+**Karan Singh Chauhan**
 
