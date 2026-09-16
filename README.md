@@ -1,1 +1,1 @@
-# handtotext
+# handwritten_digit_recognizer
